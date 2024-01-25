@@ -31,3 +31,7 @@ bin/
 /.idea/misc.xml
 /.idea/workspace.xml
 /idea/modules.xml
+/src/Person.java
+/src/Employee.java
+/src/Student.java
+/src/Payable.java
